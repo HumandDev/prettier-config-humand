@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config-humand",
+  "version": "0.0.0",
+  "description": "prettier config by Humand",
+  "main": "index.json",
+  "author": "dgarcia-hu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumandDev/prettier-config-humand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HumandDev/prettier-config-humand/issues"
+  },
+  "homepage": "https://github.com/HumandDev/prettier-config-humand#readme",
+  "license": "ISC",
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "humand"
+  ]
+}
